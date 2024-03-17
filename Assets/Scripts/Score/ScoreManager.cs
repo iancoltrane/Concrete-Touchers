@@ -1,4 +1,3 @@
-using TMPro;
 using UnityEngine.Events;
 
 public class ScoreManager : Singleton<ScoreManager>

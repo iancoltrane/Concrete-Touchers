@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GRASS
+  - KOG
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Logo
+  - Water
+  - UI
+  - Concrete
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SKY
+    uniqueID: 893141121
+    locked: 0
+  - name: GRASS
+    uniqueID: 3959577699
+    locked: 0
+  - name: Sign
+    uniqueID: 3247333463
+    locked: 0
+  - name: Bars
+    uniqueID: 698216921
+    locked: 0
+  - name: Grassbutt
+    uniqueID: 2448414033
+    locked: 0
+  - name: GrassToucher
+    uniqueID: 2536105221
+    locked: 0
+  - name: Logo
+    uniqueID: 1664931713
+    locked: 0

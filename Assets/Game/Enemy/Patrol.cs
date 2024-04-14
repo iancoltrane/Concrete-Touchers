@@ -31,7 +31,7 @@ public class Patrol : MonoBehaviour
         if (patrolPoints.Count < 1) return;
         
         var direction = patrolPoints[_currentPoint].position - transform.position;
-        if (direction.sqrMagnitude < .01f) Cycle();
+        if (direction.magnitude < .5f) Cycle();
     }
 
     private void Cycle()

@@ -15,26 +15,46 @@ Loading C:\Development\Clients\Ian\ConcreteTouchers\CONCRETE TOUCHERS\Concrete-T
 Platform assembly: C:\Development\Clients\Ian\ConcreteTouchers\CONCRETE TOUCHERS\Concrete-Touchers\Builds\concrete-touchers_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Development\Clients\Ian\ConcreteTouchers\CONCRETE TOUCHERS\Concrete-Touchers\Builds\concrete-touchers_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Development\Clients\Ian\ConcreteTouchers\CONCRETE TOUCHERS\Concrete-Touchers\Builds\concrete-touchers_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.470 seconds
+- Completed reload, in  0.481 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: C:\Development\Clients\Ian\ConcreteTouchers\CONCRETE TOUCHERS\Concrete-Touchers\Builds\concrete-touchers_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 54a0 -> priority: 1 
-  Thread -> id: 5688 -> priority: 1 
+  Thread -> id: 5c3c -> priority: 1 
+  Thread -> id: 20e8 -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.010099 ms
+UnloadTime: 3.178200 ms
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 331.
-Total: 0.293700 ms (FindLiveObjects: 0.024100 ms CreateObjectMapping: 0.020200 ms MarkObjects: 0.230800 ms  DeleteObjects: 0.017600 ms)
+Total: 0.245000 ms (FindLiveObjects: 0.030300 ms CreateObjectMapping: 0.029100 ms MarkObjects: 0.167400 ms  DeleteObjects: 0.017300 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.535800 ms
+UnloadTime: 0.527200 ms
 
 Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 2295.
-Total: 0.736600 ms (FindLiveObjects: 0.118700 ms CreateObjectMapping: 0.048600 ms MarkObjects: 0.423900 ms  DeleteObjects: 0.144900 ms)
+Total: 0.762500 ms (FindLiveObjects: 0.162500 ms CreateObjectMapping: 0.049200 ms MarkObjects: 0.414600 ms  DeleteObjects: 0.134900 ms)
+
+Tag enemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Tag enemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Tag enemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Tag enemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Tag enemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
 Tag enemy
  
@@ -45,8 +65,46 @@ Tag enemy
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.868400 ms
+UnloadTime: 3.193800 ms
 
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 266.
-Total: 0.332700 ms (FindLiveObjects: 0.016100 ms CreateObjectMapping: 0.010000 ms MarkObjects: 0.184400 ms  DeleteObjects: 0.121500 ms)
+Total: 0.348700 ms (FindLiveObjects: 0.016100 ms CreateObjectMapping: 0.011100 ms MarkObjects: 0.201300 ms  DeleteObjects: 0.119300 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.610400 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.247900 ms (FindLiveObjects: 0.015600 ms CreateObjectMapping: 0.009000 ms MarkObjects: 0.208800 ms  DeleteObjects: 0.013600 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329400 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 0.241400 ms (FindLiveObjects: 0.016300 ms CreateObjectMapping: 0.010600 ms MarkObjects: 0.203600 ms  DeleteObjects: 0.010400 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.452400 ms
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 0.676700 ms (FindLiveObjects: 0.081500 ms CreateObjectMapping: 0.034600 ms MarkObjects: 0.417400 ms  DeleteObjects: 0.142600 ms)
+
+Tag enemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Tag enemy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.965000 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.470800 ms (FindLiveObjects: 0.018700 ms CreateObjectMapping: 0.016000 ms MarkObjects: 0.251700 ms  DeleteObjects: 0.183900 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.374100 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 262.
+Total: 0.271500 ms (FindLiveObjects: 0.024400 ms CreateObjectMapping: 0.015700 ms MarkObjects: 0.219500 ms  DeleteObjects: 0.010900 ms)
 

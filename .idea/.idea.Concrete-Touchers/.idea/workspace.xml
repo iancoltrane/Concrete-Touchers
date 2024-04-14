@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfcfd523-bf22-4a23-a515-830343f01d5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Concrete-Touchers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Concrete-Touchers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Enemy/Patrol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Enemy/Patrol.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Prefabs/GrassToucher.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Prefabs/GrassToucher.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-    </list>
+    <list default="true" id="cfcfd523-bf22-4a23-a515-830343f01d5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713119863368</updated>
       <workItem from="1713119865268" duration="599000" />
-      <workItem from="1713134077272" duration="364000" />
+      <workItem from="1713134077272" duration="641000" />
     </task>
     <servers />
   </component>

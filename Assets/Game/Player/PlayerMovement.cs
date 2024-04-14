@@ -21,6 +21,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 2f;
     [SerializeField] private float jumpForce = 3f;
 
+    private bool _triggerOn;
+    
     private enum MovementState
     {
         idle,
@@ -88,7 +90,16 @@ public class PlayerMovement : MonoBehaviour
             state = MovementState.idle;
         }
 
-        if (Input.GetMouseButtonDown(0))
+        bool fire = Input.GetButtonDown("Fire1");
+        var triggerAxis = Input.GetAxis("Fire1");
+        if (triggerAxis >= .001f)
+        {
+            fire |= !_triggerOn;
+            _triggerOn = true;
+        }
+        else _triggerOn = false;
+        
+        if (fire)
         {
             if (_tagCoroutine != null) StopCoroutine(_tagCoroutine);
             

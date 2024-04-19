@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfcfd523-bf22-4a23-a515-830343f01d5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Game/LoopManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Game/LoopManager.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Concrete-Touchers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Concrete-Touchers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Prefabs/GrassButtCharacterMilk.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Prefabs/GrassButtCharacterMilk.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/UI/IntegerDisplay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/UI/IntegerDisplay.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +107,7 @@
       <workItem from="1713134077272" duration="641000" />
       <workItem from="1713135173766" duration="1739000" />
       <workItem from="1713156898000" duration="3374000" />
-      <workItem from="1713511282864" duration="1470000" />
+      <workItem from="1713511282864" duration="2315000" />
     </task>
     <servers />
   </component>

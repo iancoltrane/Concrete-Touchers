@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cfcfd523-bf22-4a23-a515-830343f01d5f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Concrete-Touchers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Concrete-Touchers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameOver.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +109,8 @@
       <workItem from="1713135173766" duration="1739000" />
       <workItem from="1713156898000" duration="3374000" />
       <workItem from="1713511282864" duration="2315000" />
+      <workItem from="1713514994090" duration="602000" />
+      <workItem from="1713639857104" duration="348000" />
     </task>
     <servers />
   </component>
